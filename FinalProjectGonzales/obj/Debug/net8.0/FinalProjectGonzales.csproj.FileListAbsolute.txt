@@ -1,0 +1,14 @@
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\bin\Debug\net8.0\FinalProjectGonzales.exe
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\bin\Debug\net8.0\FinalProjectGonzales.deps.json
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\bin\Debug\net8.0\FinalProjectGonzales.runtimeconfig.json
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\bin\Debug\net8.0\FinalProjectGonzales.dll
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\bin\Debug\net8.0\FinalProjectGonzales.pdb
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.dll
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\refint\FinalProjectGonzales.dll
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.pdb
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\FinalProjectGonzales.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\Documents\SODV1202\FinalProjectGonzales\FinalProjectGonzales\obj\Debug\net8.0\ref\FinalProjectGonzales.dll
